@@ -1,2 +1,1 @@
-# java-aspectj-sample
-aspectj
+# aspectj
